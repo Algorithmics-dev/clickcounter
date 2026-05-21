@@ -45,7 +45,4 @@
 - πρόσθεσε νέο game mechanic
 
 ## Showcase
-Αν κάνεις δικό σου remix:
-- ανέβασε screenshot
-- δείξε το score σου
-- δείξε το custom version σου 🚀
+Αν κάνεις δικό σου remix στείλε μας το παιχνίδι (screenshot) στο κάναλι **Showcase** και μπορεί να δεις όνομα σου leaderboard.
